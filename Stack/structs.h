@@ -1,5 +1,5 @@
-#ifndef header3
-#define header3
+#ifndef structs
+#define structs
 		
 #define SIZE 20
 
